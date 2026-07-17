@@ -80,12 +80,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=venu-chandaka&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venu-chandaka&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venu-chandaka&theme=tokyonight&hide_border=true" />
 </p>
 
 > Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these widgets.
@@ -96,12 +96,12 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[ProPrep](https://github.com/YOUR_GITHUB_USERNAME/proprep)** | AI-based mock interview platform with real-time confidence scoring via computer vision | FastAPI, OpenCV, MediaPipe |
-| **[Online Learning Platform](https://github.com/YOUR_GITHUB_USERNAME/online-learning-platform)** | Full-stack MERN app with course management, quizzes, and progress dashboards | React, Node.js, Express, MongoDB |
-| **[Plant Disease Detection](https://github.com/YOUR_GITHUB_USERNAME/plant-disease-detection)** | ML app that detects crop diseases from leaf images in real time | TensorFlow, Keras, Streamlit |
+| **[ProPrep](https://github.com/venu-chandaka/proprep)** | AI-based mock interview platform with real-time confidence scoring via computer vision | FastAPI, OpenCV, MediaPipe |
+| **[Online Learning Platform](https://github.com/venu-chandaka/online-learning-platform)** | Full-stack MERN app with course management, quizzes, and progress dashboards | React, Node.js, Express, MongoDB |
+| **[Plant Disease Detection](https://github.com/venu-chandaka/plant-disease-detection)** | ML app that detects crop diseases from leaf images in real time | TensorFlow, Keras, Streamlit |
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=venu-chandaka&style=flat-square&color=blueviolet" alt="profile views" />
 </p>
