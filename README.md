@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Venu 👋</h1>
 
-<h3 align="center">AI Full-Stack Developer | ML Enthusiast | CS Student</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=AI+Full-Stack+Developer;ML+Enthusiast;Computer+Science+Student" alt="Typing Effect" />
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venu-chandaka-147n513" target="_blank">
