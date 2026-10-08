@@ -98,9 +98,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[ProPrep](https://github.com/venu-chandaka/proprep)** | AI-based mock interview platform with real-time confidence scoring via computer vision | FastAPI, OpenCV, MediaPipe |
-| **[Online Learning Platform](https://github.com/venu-chandaka/online-learning-platform)** | Full-stack MERN app with course management, quizzes, and progress dashboards | React, Node.js, Express, MongoDB |
-| **[Plant Disease Detection](https://github.com/venu-chandaka/plant-disease-detection)** | ML app that detects crop diseases from leaf images in real time | TensorFlow, Keras, Streamlit |
+| **[ProPrep](https://github.com/venu-chandaka/ProPrep-ai-mock-interview)** | AI-based mock interview platform with real-time confidence scoring via computer vision | FastAPI, OpenCV, MediaPipe |
+| **[Online Learning Platform](https://github.com/venu-chandaka/online-learning-app-insightquest-internship)** | Full-stack MERN app with course management, quizzes, and progress dashboards | React, Node.js, Express, MongoDB |
+| **[Plant Disease Detection](https://github.com/venu-chandaka/PlantDiseageDetectionSystem)** | ML app that detects crop diseases from leaf images in real time | TensorFlow, Keras, Streamlit |
 
 ---
 
